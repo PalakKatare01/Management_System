@@ -3,7 +3,7 @@ A project based on C++, OOP's concept and filehandling
 The management system has two parts.
 1.) Bank management
 2.) ATM management
-Line of code - 865 approx.
+Line of code - 885 approx.
 ______________________________________________________________________
 BANK MANAGEMENT
 
